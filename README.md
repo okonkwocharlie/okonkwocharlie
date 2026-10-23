@@ -1,16 +1,46 @@
-## Hi there 👋
+# Charles Okonkwo
 
-<!--
-**okonkwocharlie/okonkwocharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer in Progress | SQL & Data Analytics**
 
-Here are some ideas to get you started:
+I am building practical skills in Python programming, SQL, and data analysis. I enjoy solving problems through code, querying relational databases, and developing projects that turn data into useful information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** Python
+- **Databases:** SQL, MySQL
+- **SQL:** Filtering, joins, aggregation, subqueries, CTEs, and data manipulation
+- **Version Control:** Git, GitHub
+- **Development Tools:** VS Code, Jupyter Notebook
+
+## Projects
+
+### Python Sales Calculator
+
+A Python project focused on sales-related calculations and programming fundamentals.
+
+- **Technologies:** Python
+- **Focus:** Variables, arithmetic operations, input handling, and program logic
+- **Repository:** [View project](https://github.com/okonkwocharlie/python-sales-calculator)
+
+## Current Learning Goals
+
+- Strengthen Python programming and problem-solving
+- Apply SQL to practical data analysis tasks
+- Learn Pandas and NumPy for data manipulation
+- Explore data visualization and exploratory data analysis
+- Build projects that demonstrate practical technical skills
+
+## Development Approach
+
+- Write readable and maintainable code
+- Document project setup and usage
+- Practice version control with Git
+- Learn through building, testing, and improving projects
+
+## Collaboration
+
+I welcome constructive feedback, learning opportunities, and collaboration on Python, SQL, and data analytics projects.
+
+---
+
+*Building practical skills through continuous learning and project development.*
